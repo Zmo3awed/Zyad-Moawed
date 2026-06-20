@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/Zmo3awed/assist/blob/main/WhatsApp%20Image%202026-06-20%20at%207.51.48%20PM.jpeg?raw=true" 
+    src="https://github.com/Zmo3awed/assist/blob/main/Picsart_26-06-20_19-59-03-379.png" 
     width="180" 
     style="border-radius: 50%; border: 3px solid #00aaff; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
     alt="Zyad Mohamed"
