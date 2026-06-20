@@ -1,21 +1,31 @@
-<h1 align="center">Hi 👋, I'm Zyad Moawed</h1>
+<h1 align="center">Hi 👋, I'm Zyad Mohamed</h1>
 <h3 align="center">Computer Science Student | Backend .NET Learner | Problem Solver</h3>
 
-- 🌱 I’m currently learning **C#, ASP.NET Core, .NET Backend Development**
+<!-- ضع صورتك هنا -->
 
-- 👯 I’m looking to collaborate on **Open Source Projects and Student Software Projects**
+<p align="center">
+  <img src="PUT_YOUR_IMAGE_LINK_HERE" width="180" alt="Zyad Mohamed"/>
+</p>
 
-- 🤝 I’m looking for help with **ASP.NET Core, Software Architecture, and Best Practices**
+* 🌱 I’m currently learning **C#, ASP.NET Core, .NET Backend Development**
 
-- 👨‍💻 All of my projects are available at [zyad-moawed-01b565352](zyad-moawed-01b565352)
+* 👯 I’m looking to collaborate on **Open Source Projects and Student Software Projects**
 
-- 💬 Ask me about **C++, Python, OOP, Data Structures, SQL, Database Design & implementation**
+* 🤝 I’m looking for help with **ASP.NET Core, Software Architecture, and Best Practices**
 
-- 📫 How to reach me **zyad.mohamed.1577@gmail.com**
+* 👨‍💻 All of my projects are available at **https://github.com/Zmo3awed**
 
-- 📄 Know about my experiences [https://github.com/Zmo3awed/Resume/blob/main/Zyad_Mohamed_Resume.pdf](https://github.com/Zmo3awed/Resume/blob/main/Zyad_Mohamed_Resume.pdf)
+* 💬 Ask me about **C++, Python, OOP, Data Structures, SQL, Database Design & Implementation**
 
-- ⚡ Fun fact **I can spend hours debugging code and still enjoy it.**
+* 📫 How to reach me **[zyad.mohamed.1577@gmail.com](mailto:zyad.mohamed.1577@gmail.com)**
+
+* 💼 Connect with me on LinkedIn:
+  **https://www.linkedin.com/in/zyad-moawed-01b565352**
+
+* 📄 Resume:
+  **https://github.com/Zmo3awed/Resume/blob/main/Zyad_Mohamed_Resume.pdf**
+
+* ⚡ Fun fact **I enjoy solving problems and leading teams as much as I enjoy coding.**
 
 <h3 align="left">Connect with me: zyad.mohamed.1577@gmail.com </h3>
 <p align="left">
