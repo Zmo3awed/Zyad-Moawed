@@ -4,7 +4,7 @@
 <!-- ضع صورتك هنا -->
 
 <p align="center">
-  <img src="PUT_YOUR_IMAGE_LINK_HERE" width="180" alt="Zyad Mohamed"/>
+  <img src="https://github.com/Zmo3awed/assist/blob/main/WhatsApp%20Image%202026-06-20%20at%207.51.48%20PM.jpeg" width="180" alt="Zyad Mohamed"/>
 </p>
 
 * 🌱 I’m currently learning **C#, ASP.NET Core, .NET Backend Development**
