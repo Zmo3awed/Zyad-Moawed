@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I can spend hours debugging code and still enjoy it.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: zyad.mohamed.1577@gmail.com </h3>
 <p align="left">
 </p>
 
